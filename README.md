@@ -28,8 +28,6 @@ My primary contributions include:
 - `docs/functional_spec_summary.md`
 - `docs/testing_strategy.md`
 
----
-
 ### System Design
 
 The system follows a modular pipeline:
@@ -40,8 +38,6 @@ Each stage is designed to:
 - produce consistent outputs  
 - handle edge cases  
 - support downstream components  
-
----
 
 ### Testing & CI
 
@@ -74,8 +70,6 @@ These tests help ensure:
 
 This heatmap visualizes neural firing rates across neurons and time, highlighting activity patterns and temporal dynamics in the dataset.
 
----
-
 ### LDA-Based Movement Classification
 ![LDA Results](results/figures/lda_results.png)
 
@@ -88,11 +82,7 @@ This visualization shows how neural activity can be used to distinguish between 
 
 This plot shows movement trajectories across trials, providing insight into behavioral variability and structure in the data.
 
----
-
 Additional figures are available in `results/figures/`.
-
----
 
 ## Why This Project Matters
 
