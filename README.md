@@ -28,7 +28,7 @@ My primary contributions include:
 - `docs/functional_spec_summary.md`
 - `docs/testing_strategy.md`
 
-### System Design
+## System Design
 
 The system follows a modular pipeline:
 
@@ -39,7 +39,7 @@ Each stage is designed to:
 - handle edge cases  
 - support downstream components  
 
-### Testing & CI
+## Testing & CI
 
 This project includes automated testing using GitHub Actions across multiple Python versions.
 
@@ -74,8 +74,6 @@ This heatmap visualizes neural firing rates across neurons and time, highlightin
 ![LDA Results](results/figures/lda_results.png)
 
 This visualization shows how neural activity can be used to distinguish between different movement categories, demonstrating the predictive signal contained in neural features.
-
----
 
 ### Cursor Movement Trajectories
 ![Cursor Trajectories](results/figures/cursor_trajectories.png)
