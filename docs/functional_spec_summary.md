@@ -68,19 +68,3 @@ Key considerations:
 - robustness to unexpected inputs
 - reproducibility of visual outputs
 
----
-
-## Why Functional Specifications Matter
-
-Functional specifications play a critical role in engineering workflows:
-
-- reduce ambiguity in team collaboration  
-- provide a foundation for writing meaningful tests  
-- align implementation with expected behavior  
-- improve maintainability and onboarding for new contributors  
-
----
-
-## Key Takeaway
-
-By defining expected behavior at the system level, functional specifications help bridge the gap between high-level project goals and concrete implementation, enabling more reliable and scalable data systems.
