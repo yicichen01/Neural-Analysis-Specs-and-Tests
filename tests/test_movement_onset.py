@@ -2,7 +2,7 @@
 import numpy as np
 from types import SimpleNamespace
 
-from cse583_human_say_monkey_do.analysis import get_movement_onset_times
+from data_pipeline.analysis import get_movement_onset_times
 # CHANGED: removed leading "src." in the import
 
 

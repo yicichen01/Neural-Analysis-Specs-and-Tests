@@ -1,6 +1,6 @@
 # tests/test_spikes_binned.py
 import numpy as np
-from src.cse583_human_say_monkey_do.data_formatting import get_chunk_spikes_binned
+from src.data_pipeline.data_formatting import get_chunk_spikes_binned
 
 
 def test_get_chunk_spikes_binned_basic():
